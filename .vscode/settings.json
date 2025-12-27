@@ -21,6 +21,7 @@
     "editor.suggestOnTriggerCharacters": true,
     "editor.parameterHints.enabled": false,
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "cmath": "cpp"
     }
 }
